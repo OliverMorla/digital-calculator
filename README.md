@@ -1,16 +1,9 @@
 # Digital Calculator
 
-<div align="center">
-  <img src="https://i.imgur.com/o6MstVy.png" width="200px">
-  <br>
-  <h3>Digital Calculator: Crunching Numbers, Simplified</h3>
-</div>
-
 Welcome to the repository of `Digital Calculator` – a compact, user-friendly, and efficient solution to everyday calculations. Created using vanilla HTML, CSS, and JavaScript, this application embodies the magic of simplicity in coding.
 
 ## Preview
 ![Screenshot (5)](https://user-images.githubusercontent.com/73266650/212058818-e4da0b5d-87c9-40b8-88e7-a035bbec7ecb.png)
-
 
 ## Features :sparkles:
 
